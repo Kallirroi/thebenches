@@ -10,6 +10,7 @@ class App extends Component {
     return (
       <div className="App">
         <header> the benches </header>
+        <img className="bench-image" role="presentation" src="bench.png" />
         <What/>
         <Stories/>
         <Cards/>

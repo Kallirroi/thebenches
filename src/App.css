@@ -11,23 +11,36 @@
 
 header {
   font-size: 36px;
+  margin: 5vh 0;
+}
+
+img.bench-image {
+  margin: 0 auto;
+  display: block;
+  padding: 20vh 0 10vh 0;
 }
 
 .block {
-  margin: 40vh 0;
+  margin: 20vh 0 40vh 0;
+}
+
+.block:last-child {
+  margin: 20vh 0 10vh 0;
 }
 
 .subtitle {
   color: #EB0F03;
-  text-align: left;
-  vertical-align: middle;
+  vertical-align: top;
+  display: inline-block;
+  width: 180px;
+  line-height: 22px;
 }
 
 .text {
-  text-align: left;
   width: 300px;
-  margin: 0 auto;
-  vertical-align: middle;
+  padding-left: 320px;
+  display: inline-block;
+  vertical-align: top;
 }
 
 

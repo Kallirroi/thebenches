@@ -1,6 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
+  "author": "Kalli",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",

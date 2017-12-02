@@ -5,8 +5,32 @@
   text-align: left;
   padding: 5vh 5vw;
   font-family: 'Cousine', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 header {
   font-size: 36px;
+}
+
+.block {
+  margin: 40vh 0;
+}
+
+.subtitle {
+  color: #EB0F03;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.text {
+  text-align: left;
+  width: 300px;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+
+.text > img {
+  width: 150px;
 }

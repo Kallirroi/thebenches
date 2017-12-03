@@ -5,10 +5,10 @@ class What extends Component {
     return (
       <div className="block">
         <div className="subtitle">
-        where are the stories from?
+        Whose voices did we choose?
       	</div>        
       	<div className="text">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        We used the very rich StoryCorps dataset to engage participants with personal narratives relevant to the political divide across rural and urban America.    
       	</div>
       </div>      
     );

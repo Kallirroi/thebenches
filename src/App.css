@@ -12,6 +12,9 @@
 header {
   font-size: 36px;
   margin: 5vh 0;
+  padding-bottom: 1vh;
+  border-bottom: 4px solid #000;
+  width: 240px;
 }
 
 img.bench-image {
@@ -32,18 +35,26 @@ img.bench-image {
   color: #EB0F03;
   vertical-align: top;
   display: inline-block;
-  width: 180px;
+  width: 250px;
   line-height: 22px;
 }
 
 .text {
-  width: 300px;
-  padding-left: 320px;
+  width: 350px;
+  margin-left: 270px;
   display: inline-block;
   vertical-align: top;
 }
 
 
-.text > img {
-  width: 150px;
+.text > .images {
+  width: 400px;
+  margin-top: 3vh;
 }
+
+.text > .images > img {
+  width: 170px;
+  margin: 0.1vw;
+}
+
+

@@ -40,15 +40,16 @@ img.bench-image {
 .subtitle {
   color: #EB0F03;
   vertical-align: top;
-  display: inline-block;
+  display: block;
   width: 250px;
   line-height: 22px;
 }
 
 .text {
   width: 350px;
-  margin-left: 16vw;
-  display: inline-block;
+  margin: 0 auto;
+  /*border: 1px solid;*/
+  display: block;
   vertical-align: top;
 
 }
@@ -60,8 +61,7 @@ img.bench-image {
 }
 
 .text > .images > img {
-  width: 23vw;
-  margin: 0.1vw;
+  width: 350px;
 }
 
 

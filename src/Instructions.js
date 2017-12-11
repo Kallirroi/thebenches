@@ -8,7 +8,7 @@ class Instructions extends Component {
         instructions and documentation
       	</div>        
       	<div className="text">
-        Do you want to build your own bench? That would make us very happy! Here is the PDF that documents the project. If you have questions, feel free to contact us via the links below.
+        Do you want to build your own bench? That would make us very happy! <a href="" target="blank">Here is the PDF</a> that documents the project. If you have questions, feel free to contact us via the links below.
       	</div>
       </div>      
     );

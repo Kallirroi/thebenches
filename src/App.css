@@ -17,6 +17,12 @@ header {
   width: 240px;
 }
 
+a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #000;
+}
+
 img.bench-image {
   margin: 0 auto;
   display: block;
@@ -41,9 +47,10 @@ img.bench-image {
 
 .text {
   width: 350px;
-  margin-left: 20vw;
+  margin-left: 16vw;
   display: inline-block;
   vertical-align: top;
+
 }
 
 
@@ -53,7 +60,7 @@ img.bench-image {
 }
 
 .text > .images > img {
-  width: 170px;
+  width: 23vw;
   margin: 0.1vw;
 }
 

@@ -8,7 +8,7 @@ class Contact extends Component {
         who are we?
       	</div>        
       	<div className="text">
-          we are two grad students at the MIT Media Lab: Sean and Kalli.
+          We are two first year graduate students at the MIT Media Lab: Sean Hickey (<a href="https://www.media.mit.edu/groups/lifelong-kindergarten/overview/" target="blank">Lifelong Kindergarten</a>) and Kalli Retzepi (<a href="https://www.media.mit.edu/groups/viral-communications/overview/" target="blank">Viral Communications</a>).
       	</div>
       </div>      
     );

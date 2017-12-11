@@ -8,7 +8,7 @@ class Legal extends Component {
         copyright
       	</div>        
       	<div className="text">
-          please don't sue us
+          We are using open source audio material from the <a href="https://archive.storycorps.org/" target="blank">StoryCorps Archive</a>, to whom we have communicated the specifics of this project.
       	</div>
       </div>      
     );

@@ -8,7 +8,7 @@ class What extends Component {
         Whose voices did we choose?
       	</div>        
       	<div className="text">
-        We used the very rich StoryCorps dataset to engage participants with personal narratives relevant to the political divide across rural and urban America.    
+        We used the very rich <a href="https://archive.storycorps.org/" target="blank">StoryCorps Archive</a> to engage participants with personal narratives relevant to the political divide across rural and urban America.    
       	</div>
       </div>      
     );

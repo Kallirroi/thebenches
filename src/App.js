@@ -8,7 +8,20 @@ import Instructions from './Instructions';
 import Contact from './Contact';
 import Legal from './Legal';
 
+import {
+  ShareButtons,
+  ShareCounts,
+  generateShareIcon
+} from 'react-share';
+
+const TwitterIcon = generateShareIcon('twitter');
+const {
+  TwitterShareButton
+} = ShareButtons;
+
 class App extends Component {
+
+
   render() {
     return (
       <div className="App">
@@ -20,6 +33,14 @@ class App extends Component {
         <Instructions/>
         <Contact/>
         <Legal/>
+        <TwitterShareButton
+            url={"http://thebenches.media.mit.edu/"}
+            title={"A MIT Media Lab project about depolarization"}>
+            <TwitterIcon
+              size={24}
+              round />
+          </TwitterShareButton>
+
       </div>
     );
   }

@@ -63,3 +63,8 @@ img.bench-image {
 }
 
 
+.social-icon.social-icon--twitter  {
+  cursor: pointer;
+  filter: grayscale(100%);
+}
+

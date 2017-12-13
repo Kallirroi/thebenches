@@ -41,8 +41,7 @@ img.bench-image {
   color: #EB0F03;
   vertical-align: top;
   display: block;
-  width: 250px;
-  line-height: 22px;
+  width: 400px;
 }
 
 .text {
@@ -55,13 +54,12 @@ img.bench-image {
 }
 
 
-.text > .images {
-  width: 400px;
-  margin-top: 3vh;
-}
 
 .text > .images > img {
   width: 350px;
+  display: block;
+  margin-top: 0.5vh;
+  margin-bottom: 0;
 }
 
 

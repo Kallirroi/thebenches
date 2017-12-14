@@ -18,7 +18,7 @@ class What extends Component {
 
           <p> Our bench senses when two people are seated on it, and starts playing excerpts from StoryCorps stories about politics across the political and geographical spectrum of America. </p>  	
 
-          <img alt="" src="cards/process.gif" width="105%" />
+          <img alt="" src="cards/process2.gif" width="105%" />
         </div>
       </div>      
     );

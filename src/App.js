@@ -15,9 +15,7 @@ import {
 } from 'react-share';
 
 const TwitterIcon = generateShareIcon('twitter');
-const {
-  TwitterShareButton
-} = ShareButtons;
+const { TwitterShareButton } = ShareButtons;
 
 class App extends Component {
 

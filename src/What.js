@@ -12,7 +12,11 @@ class What extends Component {
 
           <p>In particular, <a href="https://faculty.polisci.wisc.edu/kwalsh2/" target="blank">Kathy Cramer’s work</a> encourages us to think about the ways in which stories and storytelling allow groups to build unity while simultaneously acknowledging difference. This is especially relevant to polarization in the current politics of the USA, as we seem to be losing the ability to listen to the “other” and to acknowledge the multitudes of opinions, across geographical and socioeconomic differences. </p>
 
-          <p>We designed, built and hope to enact an intervention that will promote the listening to and creation of personal stories across geographic spaces.</p>  	
+          <p>So what did we do about that?</p> 
+
+          <p>We really believe in the power of storytelling, and in community, so we designed and built a bench, with the hopes of deploying it in a public space like a library. Our bench senses when two people are seated on it, and starts playing excerpts from StoryCorps stories about politics across the political and geographical spectrum of America. </p>  	
+
+          <img alt="" src="cards/process.gif" width="105%" />
         </div>
       </div>      
     );

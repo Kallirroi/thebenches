@@ -14,7 +14,9 @@ class What extends Component {
 
           <p>So what did we do about that?</p> 
 
-          <p>We really believe in the power of storytelling, and in community, so we designed and built a bench, with the hopes of deploying it in a public space like a library. Our bench senses when two people are seated on it, and starts playing excerpts from StoryCorps stories about politics across the political and geographical spectrum of America. </p>  	
+          <p>We really believe in the power of storytelling, and in community, so we designed and built a bench, with the hopes of deploying it in a public space like a library.</p>  
+
+          <p> Our bench senses when two people are seated on it, and starts playing excerpts from StoryCorps stories about politics across the political and geographical spectrum of America. </p>  	
 
           <img alt="" src="cards/process.gif" width="105%" />
         </div>

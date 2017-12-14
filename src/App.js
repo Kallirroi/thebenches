@@ -17,6 +17,11 @@ import {
 const TwitterIcon = generateShareIcon('twitter');
 const { TwitterShareButton } = ShareButtons;
 
+import ReactGA from 'react-ga';
+
+ReactGA.initialize('UA-111273244-01');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 class App extends Component {
 
 

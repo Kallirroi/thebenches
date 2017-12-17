@@ -10,17 +10,18 @@ import Legal from './Legal';
 
 import {
   ShareButtons,
-  ShareCounts,
   generateShareIcon
 } from 'react-share';
+
+import ReactGA from 'react-ga';
+
 
 const TwitterIcon = generateShareIcon('twitter');
 const { TwitterShareButton } = ShareButtons;
 
-import ReactGA from 'react-ga';
 
-ReactGA.initialize('UA-111273244-01');
-ReactGA.pageview(window.location.pathname + window.location.search);
+ReactGA.initialize('UA-111273244-1');
+ReactGA.pageview(window.location.pathname);
 
 class App extends Component {
 
